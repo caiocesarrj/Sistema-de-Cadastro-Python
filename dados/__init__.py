@@ -1,1 +1,1 @@
-from project_system.dados import dados_cadastro
+from dados import dados_cadastro
